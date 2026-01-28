@@ -45,6 +45,7 @@ python -m PyInstaller --noconsole --onefile --icon=organizador.ico organizador.p
 ```
 
 ## 📸 Capturas de Pantalla
-| Vista Principal | Ventana Emergente |
-| :---: | :---: |
-| ![Principal](assets/captura de pantalla 1.png) | ![Popup](screenshots/captura_popup.png) |
+<p align="center">
+  <img src="assets/Captura de pantalla 1.png" width="500">
+  <img src="assets/Captura de pantalla 2.png" width="500">
+</p>
